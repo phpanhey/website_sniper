@@ -1,0 +1,18 @@
+{
+    "sites": [
+        {
+            "title": "PS5 Mueller",
+            "url": "https://www.mueller.de/multi-media/playstation-5/",
+            "search_snippet": "nicht erhältlich"
+        },
+        {
+            "title": "PS5 Expert",
+            "url": "https://ps5.expert.de/Themenwelten/Sony-PS5.html",
+            "search_snippet": "bereits vergriffen"
+        }
+    ],
+    "telegram": {
+        "bot_token": "bot_token",
+        "user_id": "user_id"
+    }
+}
