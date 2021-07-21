@@ -1,4 +1,4 @@
-# website sniper - i will watch state changes on your sites
+# website sniper - 👁👄👁
 this script watches if a specific snippet on a website changes and sends a notifiction via telegram.
 e.g. stock of a ps5 in a online-store could be checked.
 
