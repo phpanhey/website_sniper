@@ -37,7 +37,7 @@ def send_telegram(message):
     return response.json()
 
 
-sites = get_credentials("sites")
+sites = get_credentials("watched_sites")
 for site in sites:
     html = get_html(site["url"])
     if site["search_snippet"] not in html:
