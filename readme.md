@@ -40,8 +40,3 @@ i.e. every 15 min:
 ```sh
 */15 * * * * cd ~/scripts/website_sniper; python3 website_sniper.py;cd 
 ```
-
-
-
-
-
